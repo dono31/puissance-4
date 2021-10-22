@@ -65,7 +65,7 @@ i{
 i:hover{
     transition: 0s;
     color:  #002eff;
-    box-shadow: 0 0 120px  #f2fe00;
+    text-shadow: 0 0 120px  #f2fe00;
 }
 section .row div{
     
